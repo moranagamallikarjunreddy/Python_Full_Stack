@@ -10,7 +10,8 @@ def  main():
     elif age>18 and age<=67:
         print(f"your full name is {firstname} {lastname} and you are a adlt")  
     else:
-        print(f"your full name is{firstname} {lastname} and you are a seinor cition ")  
-
+        print(f"your full name is{firstname} {lastname} and you are a seinor cition ") 
+        print("hi") 
+    
 if __name__=="__main__":
     main()
